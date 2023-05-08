@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot , LLD**
 
-- 💬 Ask me about **Java development , Blockchain development , Competitive Programming**
+- 💬 Ask me about **Java development , Blockchain development , Data Structure and Algorithms**
 
 - 📫 How to reach me **arijit11d@gmail.com**
 
