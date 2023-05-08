@@ -3,6 +3,9 @@
 <h3 align="center">Talk is cheap. Show me the code.</h3>
 <br>
 <img align="right" alt="Coding" width="300" src="https://i.imgur.com/GuYw6ZQ.png">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arijitdasgupta11&label=Profile%20views&color=0e75b6&style=flat" alt="arijitdasgupta11" /> </p>
+
 - 🔭 I’m currently working on [Blockchain based Voting Portal](https://github.com/arijitdasgupta11/Blockchain_Based_Decentralized_Voting-Portal)
 
 - 🌱 I’m currently learning **Spring Boot , LLD**
