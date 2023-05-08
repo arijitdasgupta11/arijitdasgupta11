@@ -1,6 +1,6 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/set-programming-language-logo-vector-icons-css-html-javascript-java-php-c-c-c-swift-python-isolated-editorial-set-242765709.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Arijit Dasgupta</h1>
-<h3 align="center">Talk is cheap. Show me the code.</h3><br>
+<h3 align="center">Talk is cheap. Show me the code🚀</h3><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijitdasgupta11&label=Profile%20views&color=0e75b6&style=flat" alt="arijitdasgupta11" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/GuYw6ZQ.png">
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arijit11d@gmail.com**
 
-- ⚡ Fun fact **I (A Java developer) wear glasses because I can't C#.**
+- ⚡ Fun fact **I (A Java developer) wear glasses because I can't C#👨‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,6 +30,6 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arijitdasgupta11&show_icons=true&locale=en" alt="arijitdasgupta11" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arijitdasgupta11&show_icons=true&locale=en" alt="arijitdasgupta11" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arijitdasgupta11&" alt="arijitdasgupta11" /></p>
