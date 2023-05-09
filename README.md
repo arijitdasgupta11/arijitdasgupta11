@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/9cHJZz4.png)](https://rishavchanda.io)
+[![MasterHead](https://i.imgur.com/9cHJZz4.png)](https:
 <h1 align="center">Hi 👋, I'm Arijit Dasgupta</h1>
 <h3 align="center">Talk is cheap. Show me the code🚀</h3><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijitdasgupta11&label=Profile%20views&color=0e75b6&style=flat" alt="arijitdasgupta11" /> </p>
