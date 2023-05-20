@@ -1,8 +1,17 @@
-![MasterHead](https://i.imgur.com/9cHJZz4.png)
+![MasterHead](https://i.imgur.com/9cHJZz4.png)   
+ <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+<br>
 <h1 align="center">Hi 👋, I'm Arijit Dasgupta</h1>
 <h3 align="center">Talk is cheap. Show me the code🚀</h3><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arijitdasgupta11&label=Profile%20views&color=0e75b6&style=flat" alt="arijitdasgupta11" /> </p>
-
+<br>
+<p align="center"> 
+  Profile Visitor count<br>
+  <img src="https://profile-counter.glitch.me/arijitdasgupta11/count.svg" />
+</p>
+<br>
+<br>
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+<br>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/GuYw6ZQ.png">
 <br><br>
 - 🔭 I’m currently working on [Blockchain based Voting Portal](https://github.com/arijitdasgupta11/Blockchain_Based_Decentralized_Voting-Portal)
@@ -14,7 +23,11 @@
 - 📫 How to reach me **arijit11d@gmail.com**
 
 - ⚡ Fun fact **I (A Java developer) wear glasses because I can't C#👨‍💻**
+<br>
 
+<br>
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arijit-dasgupta-8a0ab2200" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="arijit-dasgupta-8a0ab2200" height="30" width="30" /></a>
@@ -23,7 +36,9 @@
 <a href="https://www.hackerrank.com/arijit11d" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="arijit11d" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/arijit11d" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="arijit11d" height="30" width="30" /></a>
 </p>
-
+<br>
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/872px-Android_robot.svg.png" alt="android" width="40" height="40"/> </a> <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" alt="android" width="40" height="40"/> </a>
     <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://jwt.io/img/icon.svg" alt="jwt token" width="40" height="40"/></a>
@@ -35,3 +50,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arijitdasgupta11&show_icons=true&locale=en" alt="arijitdasgupta11" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arijitdasgupta11&" alt="arijitdasgupta11" /></p>
+
+<p align="center">
+  <i><b>Thanks for visiting my profile 😃</b></i>
+</p>
+
+<p align="center" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer&text=Have%20a%20Nice%20Day"/>
+</p>
