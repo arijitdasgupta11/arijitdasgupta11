@@ -30,7 +30,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arijit-dasgupta-8a0ab2200" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="arijit-dasgupta-8a0ab2200" height="50" width="60" /></a>
+<a href="https://linkedin.com/in/arijit-d-11" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="arijit-dasgupta-8a0ab2200" height="50" width="60" /></a>
 <a href="https://auth.geeksforgeeks.org/user/arijit11d" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="arijit11d" height="50" width="70" /></a>
 <a href="https://instagram.com/arijit.d.11" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="arijit.d.11" height="60" width="60" /></a>
 <a href="https://www.codechef.com/users/arijit11d" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arijit11d" height="50" width="60" /></a>
